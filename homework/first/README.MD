@@ -1,9 +1,9 @@
 # Branch prediction
 
 
-The branch predictors to be compared were Gap and Gag against the baseline of the bimodal predictor (with identical sizes).
+The branch predictors to be compared were GAp and GAg against the baseline of the bimodal predictor (with identical sizes).
 
-The ips and mpki averaged over the set of traces were compared:
+The ipc and mpki averaged over the set of traces were compared:
 
 ![](pictures/ipc_gmean_zoomed.jpg)
 ![](pictures/mpki_gmean.jpg)
